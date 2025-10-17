@@ -1,12 +1,9 @@
-# DyMAC-TSCH
-Low-power, long-range Dynamic MAC protocol implementation for IIoT networks (IEEE 802.15.4e TSCH) on nrf52840 (ARM Cortex M4)
-# DyMAC – Dynamic MAC Protocol (IEEE 802.15.4e TSCH)
-
 ## Overview
-**DyMAC** is a **Dynamic MAC Protocol** developed for **low-power, long-range radios** in the **Industrial Internet of Things (IIoT)**.  
+DyMAC is a low-power, long-range **Dynamic MAC protocol** designed for Industrial IoT (IIoT) networks. 
+It implements the IEEE 802.15.4e TSCH standard on **ARM Cortex M4 (nRF52840)** devices, enabling reliable and scalable wireless communication
 This project is **MeitY-funded** and executed in collaboration with **IIT Hyderabad, IIT Bhubaneswar, IISc Bangalore, and CDAC Bangalore**.  
 
-The **IEEE 802.15.4e TSCH standard–based MAC** implemented in DyMAC provides:  
+The Dynamic MAC provides:  
 - **TDMA slotframe structure** for determinism and scalability  
 - **FDMA structure** to mitigate interference  
 - Multi-hop synchronization and **PAN formation**  
@@ -14,9 +11,8 @@ The **IEEE 802.15.4e TSCH standard–based MAC** implemented in DyMAC provides:
 - Frequency and channel hopping for reliable communication  
 - Frame structures for **Enhanced Beacon, Data Frame, and Enhanced Acknowledgment**  
 
-The project has **two main platforms**:  
-1. **GNU Radio:** IEEE 802.15.4e TSCH MAC Out-of-Tree (OOT) module  
-2. **Embedded Platform:** Dynamic MAC implementation on **ARM Cortex M4 microcontroller**
+PLatform:  
+**Embedded Platform:** Dynamic MAC implementation on ARM Cortex M4 microcontroller
 
 ---
 
@@ -31,9 +27,9 @@ The project has **two main platforms**:
 
 ## Tech Stack
 - **Languages:** C, Embedded C  
-- **Hardware:** ARM Cortex M4 (nRF52840), Industrial IoT radios  
-- **Protocols:** IEEE 802.15.4e, TSCH  
-- **Tools / Platforms:** SEGGER Embedded Studio, GNU Radio, ns-3, Oscilloscope, Logic Analyzer, FreeRTOS  
+- **Hardware:** ARM Cortex M4 (nRF52840), Radios - ADF7242 for 2.4 GHz and ADF7030-1 for 863 MHz 
+- **Protocols:** IEEE 802.15.4e-TSCH  
+- **Tools / Platforms:** SEGGER Embedded Studio, ns-3, Oscilloscope, Logic Analyzer, FreeRTOS  
 
 ---
 
