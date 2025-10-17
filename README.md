@@ -1,7 +1,7 @@
 ## Overview
 DyMAC is a low-power, long-range **Dynamic MAC protocol** designed for Industrial IoT (IIoT) networks. 
 It implements the IEEE 802.15.4e TSCH standard on **ARM Cortex M4 (nRF52840)** devices, enabling reliable and scalable wireless communication
-This project is **MeitY-funded** and executed in collaboration with **IIT Hyderabad, IIT Bhubaneswar, IISc Bangalore, and CDAC Bangalore**.  
+This project is MeitY-funded and executed in collaboration with IIT Hyderabad, IIT Bhubaneswar, IISc Bangalore, and CDAC Bangalore.  
 
 The Dynamic MAC provides:  
 - **TDMA slotframe structure** for determinism and scalability  
@@ -11,7 +11,7 @@ The Dynamic MAC provides:
 - Frequency and channel hopping for reliable communication  
 - Frame structures for **Enhanced Beacon, Data Frame, and Enhanced Acknowledgment**  
 
-PLatform:  
+Platform:  
 **Embedded Platform:** Dynamic MAC implementation on ARM Cortex M4 microcontroller
 
 ---
@@ -34,8 +34,8 @@ PLatform:
 ---
 
 ## Paper & Resources
-- 📄 Published Paper: [Dy-MAC: Implementation of Dynamic MAC Stack for IEEE 802.15.4e TSCH](https://cni.iisc.ac.in/assets/pdf/papers/Dy-MAC_Implementation_of_dynamic_MAC_stack_for_IEEE_802.15.4e-TSCH.pdf)  
-- 🌐 Project Website / Demo: *(add link if available)*  
+- 📄 Published Paper: [Dy-MAC: Implementation of Dynamic MAC Stack for IEEE 802.15.4e TSCH](https://www.sciencedirect.com/science/article/abs/pii/S1570870523001889)  
+- 🌐 Project Website: (https://eecs.iisc.ac.in/research-highlight/design-of-dynamic-mac-and-phy-soc-for-low-power-and-long-range-networks/) 
 
 ---
 
