@@ -51,7 +51,7 @@ Platform:
 
 ## Multi-Hop Synchronization
 <p align="center">
-  <img src="images/Tx_timeslot.png" alt="Mesh Synchronization Tx" width="600"/>
+  <img src="images/Tx_tmeslot.png" alt="Mesh Synchronization Tx" width="600"/>
 </p>
 
 **Figure:** Multi-hop TDMA slot synchronization in real-time embedded deployment for Tx
