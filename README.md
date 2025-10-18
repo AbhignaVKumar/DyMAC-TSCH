@@ -41,7 +41,7 @@ Platform:
 
 ## Network Architecture
 <p align="center">
-  <img src="images/network_topology.png" alt="Network Topology" width="600"/>
+  <img src="images/Network_Topology.png" alt="Network Topology" width="600"/>
 </p>
 
 **Figure:** Different network topologies used for DyMAC testing.  
