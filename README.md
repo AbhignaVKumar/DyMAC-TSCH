@@ -67,7 +67,7 @@ Platform:
 
 ## ADF7030-1 Radio FSM
 <p align="center">
-  <img src="images/ADF_7030-1_FSM.png" alt="FSM" width="600"/>
+  <img src="images/ADF_7030-1_FSM.png" alt="FSM" width="300"/>
 </p>
 
 **Figure:** FSM of ADF7030-1  
