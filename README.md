@@ -44,16 +44,29 @@ Platform:
   <img src="images/Network_Topology.png" alt="Network Topology" width="600"/>
 </p>
 
+
 **Figure:** Different network topologies used for DyMAC testing.  
 
 ---
 
 ## Multi-Hop Synchronization Example
 <p align="center">
-  <img src="images/mesh_sync_example.png" alt="Mesh Synchronization" width="600"/>
+  <img src="images/Tx_timeslot.png" alt="Mesh Synchronization" width="600"/>
+</p>
+<p align="center">
+  <img src="images/Rx_timeslot.png" alt="Mesh Synchronization" width="600"/>
 </p>
 
 **Figure:** Multi-hop TDMA slot synchronization in real-time embedded deployment.  
+
+---
+
+## ADF7030-1 Radio FSM
+<p align="center">
+  <img src="images/ADF_7030-1_FSM.png" alt="FSM" width="600"/>
+</p>
+
+**Figure:** FSM of ADF7030-1  
 
 ---
 
