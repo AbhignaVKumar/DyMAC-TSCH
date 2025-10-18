@@ -51,10 +51,10 @@ Platform:
 
 ## Multi-Hop Synchronization Example
 <p align="center">
-  <img src="images/Tx_timeslot.png" alt="Mesh Synchronization" width="600"/>
+  <img src="images/Tx_timeslot.png" alt="Mesh Synchronization Tx" width="600"/>
 </p>
 <p align="center">
-  <img src="images/Rx_timeslot.png" alt="Mesh Synchronization" width="600"/>
+  <img src="images/Rx_timeslot.png" alt="Mesh Synchronization Rx" width="600"/>
 </p>
 
 **Figure:** Multi-hop TDMA slot synchronization in real-time embedded deployment.  
