@@ -41,7 +41,7 @@ Platform:
 
 ## Node Setup
 <p align="center">
-  <img src="images/Nodesetup.png" alt="Node setup" width="400"/>
+  <img src="images/Node_setup.png" alt="Node setup" width="400"/>
 </p>
 
 
@@ -51,7 +51,7 @@ Platform:
 
 ## TDMA and FDMA structure
 <p align="center">
-  <img src="images/TDMA_FDMA.png" alt="Network Topology" width="600"/>
+  <img src="images/TDMA_FDMA.png" alt="Network Topology" width="400"/>
 </p>
 
 
