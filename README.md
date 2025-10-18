@@ -51,7 +51,7 @@ Platform:
 
 ## TDMA and FDMA structure
 <p align="center">
-  <img src="images/TDMA_FDMA.png" alt="Network Topology" width="400"/>
+  <img src="images/TDMA_FDMA.png" alt="Network Topology" width="350"/>
 </p>
 
 
