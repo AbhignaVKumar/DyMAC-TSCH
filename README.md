@@ -49,19 +49,19 @@ Platform:
 
 ---
 
-## Multi-Hop Synchronization
+## Inside a timeslot
 <p align="center">
   <img src="images/Tx_tmeslot.png" alt="Mesh Synchronization Tx" width="600"/>
 </p>
 
-**Figure:** Multi-hop TDMA slot synchronization in real-time embedded deployment for Tx
+**Figure:** components of Tx timeslot
 
 ---
 <p align="center">
   <img src="images/Rx_timeslot.png" alt="Mesh Synchronization Rx" width="600"/>
 </p>
 
-**Figure:** Multi-hop TDMA slot synchronization in real-time embedded deployment for Rx 
+**Figure:** components of Rx timeslot 
 
 ---
 
