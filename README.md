@@ -35,7 +35,7 @@ Platform:
 
 ## Paper & Resources
 - 📄 Published Paper: [Dy-MAC: Implementation of Dynamic MAC Stack for IEEE 802.15.4e TSCH](https://www.sciencedirect.com/science/article/abs/pii/S1570870523001889)  
-- 🌐 Project Website: (https://eecs.iisc.ac.in/research-highlight/design-of-dynamic-mac-and-phy-soc-for-low-power-and-long-range-networks/) 
+- 🌐 Project Website: [IISc Website](https://eecs.iisc.ac.in/research-highlight/design-of-dynamic-mac-and-phy-soc-for-low-power-and-long-range-networks/) 
 
 ---
 
@@ -44,7 +44,7 @@ Platform:
   <img src="images/network_topology.png" alt="Network Topology" width="600"/>
 </p>
 
-**Figure:** Multi-hop industrial IoT network topology used for DyMAC testing.  
+**Figure:** Different network topologies used for DyMAC testing.  
 
 ---
 
