@@ -86,6 +86,6 @@ Platform:
 
 ## Repository Structure
 DyMAC-TSCH/
-├── README.md               # Project overview, setup instructions, images, paper link
-├── code/                   # All source code files 
-├── images/                 # Diagrams, screenshots, and photos
+- ├── README.md               # Project overview, setup instructions, images, paper link
+- ├── code/                   # All source code files 
+- ├── images/                 # Diagrams, screenshots, and photos
