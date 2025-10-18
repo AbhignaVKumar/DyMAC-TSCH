@@ -39,13 +39,23 @@ Platform:
 
 ---
 
-## Network Architecture
+## Node Setup
 <p align="center">
-  <img src="images/Network_Topology.png" alt="Network Topology" width="600"/>
+  <img src="images/Nodesetup.png" alt="Node setup" width="400"/>
 </p>
 
 
-**Figure:** Different network topologies used for DyMAC testing.  
+**Figure:** MAC - nrf52840(cortex M4), PHY Radio - ADF7242, ADF7030-1 
+
+---
+
+## TDMA and FDMA structure
+<p align="center">
+  <img src="images/TDMA_FDMA.png" alt="Network Topology" width="600"/>
+</p>
+
+
+**Figure:** Time and Frequency Division
 
 ---
 
