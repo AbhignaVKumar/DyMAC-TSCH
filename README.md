@@ -85,4 +85,7 @@ Platform:
 ---
 
 ## Repository Structure
-
+DyMAC-TSCH
+      -Readme.md
+      -code
+      -images
